@@ -30,3 +30,4 @@ __Option 1:__ Build the library yourself
 
 __Option 2:__ Use customized installation  
 If you install python via the installers on python.org, you can tell the installer to include the debugging symbols and binaries such as the pythonXX_d.dll file by selecting `Customize Installation` while installing. This may be the easiest solution if you're not very savvy at building the project yourself (like me). Too bad I don't see any way to do this with the anaconda distribution.  
+[Reference](https://stackoverflow.com/questions/17028576/using-python-3-3-in-c-python33-d-lib-not-found)  
